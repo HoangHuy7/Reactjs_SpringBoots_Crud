@@ -1,6 +1,7 @@
 # Frontend
-Type in terminal: npx yarn install <br />
-Then: npm start
+
+Type in terminal: <kbd> npx yarn install</kbd> <br />
+Then: <kbd>npm start</kbd>
 
 # Backend
 Create schema 'your_db_name' <br />
